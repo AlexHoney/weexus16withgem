@@ -1,0 +1,13 @@
+#tag_cloud {
+  width: 400px;
+  line-height: 1.6em;
+  background-color: #F0F8FF;
+  border-radius: 50%;
+  padding: 50px;
+  width: 200px;
+  text-align: center;
+  .s { font-size: 0.8em; color: green }
+  .m { font-size: 1.2em; color: magenta}
+  .l { font-size: 1.8em; color: orange}
+  .x { font-size: 1.8em; color: black}
+}
